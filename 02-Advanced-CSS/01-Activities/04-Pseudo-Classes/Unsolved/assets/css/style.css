@@ -27,6 +27,12 @@ li {
   width: 135px;
 }
 
+li:hover {
+  background-color: yellow;
+  font-weight: bold;
+}
+
+
 /* TODO: Add your code to change the style of the list items when hovering over them */
 
 /* TODO: Add your code to add a potato emoji to the list item */
